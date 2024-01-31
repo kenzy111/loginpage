@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    width: 100%;
+    box-shadow:1px 2px 1px 2px #ccc ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    gap: 10px;
+    box-shadow: 1px 2px 1px 2px solid #cccc;
+    background: turquoise;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+.box1{
+    width:33%;
+    border:2px solid grey ;
+    background: white;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    line-height: 40px;
+}
+
+.box2{
+    width: 33%;
+    border:2px solid grey;
+    background:white;
+    padding-top: 50px;
+    padding-bottom:30px;
+    line-height: 40px;
+}
+.box3{
+    width: 33%;
+    border: 2px solid grey;
+    background: white;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    line-height: 40px;
+}
+
+.sh{
+    color: lightgreen;
+}
+
+.h{
+    color: lightgreen;
+}
+
+.sb{
+    color: lightgreen;
+}
+
+.sp{
+    color: lightgreen;
+}
+
+.sm{
+    color: lightgreen;
+}
+.sn{
+    color: lightgreen;
+}
+
+.btn1{
+    padding: 10px 50px;
+    border:2px solid rgb(99, 139, 99);
+    color: black;
+    background: white;
+    border-radius: 10px;
+}
+
+.btn2{
+    padding:10px 50px;
+    border:none;
+    color:white;
+    background: lightseagreen;
+    border-radius: 10px;
+}
+
+.btn3{
+    padding:10px 50px;
+    border:2px solid rgb(119, 190, 119);
+    color:rgb(76, 114, 76);
+    background:white;
+    border-radius: 10px;
+}
